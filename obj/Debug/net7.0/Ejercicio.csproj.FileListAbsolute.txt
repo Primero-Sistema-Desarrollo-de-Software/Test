@@ -1,0 +1,14 @@
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\bin\Debug\net7.0\Ejercicio.exe
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\bin\Debug\net7.0\Ejercicio.deps.json
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\bin\Debug\net7.0\Ejercicio.runtimeconfig.json
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\bin\Debug\net7.0\Ejercicio.dll
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\bin\Debug\net7.0\Ejercicio.pdb
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\obj\Debug\net7.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\obj\Debug\net7.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\obj\Debug\net7.0\Ejercicio.AssemblyInfo.cs
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\obj\Debug\net7.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\obj\Debug\net7.0\Ejercicio.dll
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\obj\Debug\net7.0\refint\Ejercicio.dll
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\obj\Debug\net7.0\Ejercicio.pdb
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\obj\Debug\net7.0\Ejercicio.genruntimeconfig.cache
+C:\Users\Sizm\Documents\Visual Studio 2022\Ejercicio\obj\Debug\net7.0\ref\Ejercicio.dll
