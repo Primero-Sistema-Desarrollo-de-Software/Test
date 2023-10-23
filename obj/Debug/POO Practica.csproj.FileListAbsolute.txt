@@ -1,0 +1,7 @@
+C:\Users\Sizm\Documents\Visual Studio 2022\POO Practica\bin\Debug\POO Practica.exe.config
+C:\Users\Sizm\Documents\Visual Studio 2022\POO Practica\bin\Debug\POO Practica.exe
+C:\Users\Sizm\Documents\Visual Studio 2022\POO Practica\bin\Debug\POO Practica.pdb
+C:\Users\Sizm\Documents\Visual Studio 2022\POO Practica\obj\Debug\POO Practica.csproj.AssemblyReference.cache
+C:\Users\Sizm\Documents\Visual Studio 2022\POO Practica\obj\Debug\POO Practica.csproj.CoreCompileInputs.cache
+C:\Users\Sizm\Documents\Visual Studio 2022\POO Practica\obj\Debug\POO Practica.exe
+C:\Users\Sizm\Documents\Visual Studio 2022\POO Practica\obj\Debug\POO Practica.pdb
